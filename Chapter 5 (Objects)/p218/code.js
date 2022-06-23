@@ -20,4 +20,4 @@ if (result) {
     console.log("You gotta check out this " + car.make + " " + car.model);
    } else {
     console.log("You should really pass on the " + car.make + " " + car.model);
-   }  //git test
+   }
