@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: Lato;
+    font-size: 100px;
+    margin: 300px;
+}
+
+#button {
+    width: 500px;
+    height: 200px;
+    margin-left: 710px;
+    margin-top: 340px;
+    background-color: black;
+}
+
+#inactive {
+    width: 0.0001px;
+    height: 0.0001px;
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    width: 500px;
+    height: 200px;
+    padding-top: 60px;
+    text-align: center;
+    color: white;
+    font-family: Lato;
+    font-size: 70px;
+}
