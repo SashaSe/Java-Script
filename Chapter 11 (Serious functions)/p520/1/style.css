@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@500;600&display=swap');
+
+#passwordField {
+    width: 196px;
+    height: 26px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#confirmButton {
+    height: 30px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#checkPasswordButton {
+    height: 30px;
+    margin: 0px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: "Anek Latin";
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.disabled {
+    font-size: 0px;
+}
+
+.wrongPass {
+    color: red;
+}
+
+h1 {
+    font-family: "Anek Latin";
+    font-weight: 600;
+    font-size: 70px;
+}
+
+p {
+    font-family: "Anek Latin";
+    font-weight: 500;
+    font-size: 50px;
+}
