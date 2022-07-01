@@ -1,6 +1,6 @@
 import React from "react";
 
-const Content = () => {
+const Profile = () => {
     return (
         <div className="content">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta diam ut sapien feugiat laoreet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed aliquet quis massa at consequat. Quisque dignissim mi ut nulla efficitur faucibus. In nulla arcu, porttitor ac molestie ac, eleifend sed ipsum. Aenean volutpat tincidunt lacus quis pretium. Vivamus id mattis ipsum. Nullam egestas egestas mi pharetra luctus. In hac habitasse platea dictumst. Donec nisi sapien, cursus id viverra nec, gravida sed augue. In id iaculis enim. Sed risus erat, fringilla et pulvinar sit amet, porttitor et libero. Maecenas et neque sed nisi malesuada euismod id sed diam. Nulla tellus sapien, viverra at metus at, tincidunt viverra erat. Donec feugiat vitae tellus eget blandit. Nunc iaculis pellentesque arcu non convallis.
@@ -16,4 +16,4 @@ const Content = () => {
     )
 }
 
-export default Content;
+export default Profile;
