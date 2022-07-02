@@ -1,0 +1,11 @@
+.content {
+    grid-area: content;
+}
+
+.profile-pic{
+    width: 100px;
+}
+
+.post-text {
+    font-family: -apple-system;
+}
