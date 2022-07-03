@@ -1,12 +1,12 @@
 .header {
     grid-area: header;
     background-color: #079e00;
-    border: 10px solid white;
-    border-radius: 20px;
+    border: 5px solid white;
+    border-radius: 10px;
 }
 
 .header img {
-    width: 65px;
-    alignment: center;
+    width: 80px;
     margin-left: 20px;
+    margin-top: 8px;
 }

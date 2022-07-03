@@ -1,17 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@500;600&family=Roboto+Condensed&display=swap');
 
-.nav-bar {
+.navBar {
     grid-area: nav;
     background-color: green;
     border-radius: 5px;
-    border: 10px solid white;
-    border-radius: 20px;
+    border: 5px solid white;
+    border-radius: 10px;
 }
 
-.item a{
+.item{
     text-decoration: none;
     color: white;
     font-family: Roboto Condensed;
     font-size: 35px;
     margin-left: 20px;
 }
+

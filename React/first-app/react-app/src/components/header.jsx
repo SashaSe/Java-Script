@@ -1,9 +1,9 @@
 import React from "react";
-import "./components-css/header.css";
+import s from "./components-css/header.module.css";
 
 const Header = () => {
     return (
-        <header className="header">
+        <header className={s.header}>
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Wikimedia-logo.png"></img>
         </header>
     )
