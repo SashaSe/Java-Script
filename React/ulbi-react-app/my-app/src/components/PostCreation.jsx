@@ -1,17 +1,14 @@
 import React, {useState} from 'react';
 import Post from "./Post";
 
-
 let finalText
 let buttonPressed = false
-console.log(buttonPressed)
 
 const PostCreation = () => {
     function btnOnClick() {
         let enteredText
         enteredText = finalText
         buttonPressed = true
-        console.log(buttonPressed)
     }
 
     let [text,setText] = useState("")
@@ -34,4 +31,5 @@ const PostCreation = () => {
         );
 
 };
+
 export default PostCreation;
